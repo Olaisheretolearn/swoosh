@@ -5,9 +5,9 @@ import 'package:html/dom.dart';
 import 'dart:developer' as developer;
 
 class WebSearchService {
-  final String _googleSearchEngineId = 'b542c27dced7146ee';
-  final String _googleApiKey = 'AIzaSyDH2utjhK7ZgFPSKr3iNvRbx1X5xvSNtF8';
-  final String _braveApiKey = 'BSAAa5sEQ4HKi1nDz_E0CVEqLlo9yU5';
+  final String _googleSearchEngineId = '';
+  final String _googleApiKey = '';
+  final String _braveApiKey = '';
 
   
   Future<String> searchAndExtractContent(String title, String description) async {
