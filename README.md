@@ -26,7 +26,7 @@ To get started with the Swoosh app, clone the repository and run the following c
 ```
 flutter pub get
 flutter run 
-
+```
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
